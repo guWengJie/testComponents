@@ -1,5 +1,5 @@
 {
-  "name": "my-vue-components",
+  "name": "entstor-components",
   "version": "1.0.0",
   "description": "A custom Vue 3 component library",
   "main": "dist/index.js",
