@@ -1,0 +1,20 @@
+{
+  "name": "my-vue-components",
+  "version": "1.0.0",
+  "description": "A custom Vue 3 component library",
+  "main": "dist/index.js",
+  "module": "dist/index.esm.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "vite build",
+    "init": "git git@git.entstor.com:web/initialization.git",
+    "test": "echo \"No test specified\" && exit 1"
+  },
+  "dependencies": {
+    "init": "^0.1.2",
+    "vue": "^3.2.13"
+  },
+  "peerDependencies": {
+    "vue": "^3.2.13"
+  }
+}
